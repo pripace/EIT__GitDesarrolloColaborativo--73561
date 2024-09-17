@@ -1,0 +1,33 @@
+# TITULO :
+# Cuales son las opciones disponibles para el titulo del commit:
+#   FEAT : Se agrega una nueva feature.
+#   FIX : Se corrigen bugs.
+#   DOCS : Se agrega documentación.
+#   HOTFIX : Cambia un bug por una mejor solución.
+#   REFACTOR : Se cambia la sintaxis de un código.
+# ---
+# Entorno :
+# El entorno hace referencia a que archivo o archivos se trabajaron. En el caso una carpeta debo aclararla como tal usando : ./
+# ---
+# Mensaje :
+# Debe estar escrito de forma imperativa. Breve, no mas de 50 caracteres.
+
+
+# INFORMACION DE LA PERSONA QUE REQUIERE EL COMMIT:
+# Nombre de la persona e email.
+
+- Nombre e email :
+
+# INFORMACION DEL TICKET
+
+- Ticket JIRA :
+- Link JIRA :
+
+# INFORMACION DEL PROYECTO :
+# Describir problema, solucion y pasos a seguir
+
+- Problema :
+
+- Solucion :
+
+- Pasos a seguir :

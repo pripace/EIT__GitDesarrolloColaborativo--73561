@@ -10,7 +10,22 @@ html {}
 .Body {}
 
 /* --- Header --- */
-.Header {}
+.Header {
+
+  & .navbar {
+
+    & .Menu {
+
+      & .Menu__item {
+
+        & .Menu__item--link {
+          color: red;
+        }
+      }
+
+    }
+  }
+}
 
 /* --- Aside --- */
 .Aside {}
