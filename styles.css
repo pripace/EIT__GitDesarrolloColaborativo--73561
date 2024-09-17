@@ -1,15 +1,22 @@
 @charset 'UTF-8';
 
+/* --- Root --- */
 :root {}
 
+/* --- HTML --- */
 html {}
 
+/* --- Body --- */
 .Body {}
 
+/* --- Header --- */
 .Header {}
 
+/* --- Aside --- */
 .Aside {}
 
+/* --- Main --- */
 .Main {}
 
+/* --- Footer --- */
 .Footer {}
