@@ -1,0 +1,93 @@
+09:59:28 De Instructor :: Gaby a Cinthia - Asistente Académica(mensaje directo):
+	Hola Cinthia, buen dia!	Espero te encuentres muy bien y gracias de antemano por el soporte en la clase de hoy
+09:59:44 De Instructor :: Gaby a Cinthia - Asistente Académica(mensaje directo):
+	Por favor, me podrias asignar el co-host ?
+10:01:19 De Cinthia - Asistente Académica a Instructor :: Gaby(mensaje directo):
+	Hola Gaby, buen día!
+10:01:26 De Cinthia - Asistente Académica a Instructor :: Gaby(mensaje directo):
+	Ahi te los pase :)
+10:01:35 De Instructor :: Gaby a Cinthia - Asistente Académica(mensaje directo):
+	Reacted to "Ahi te los pase :)" with 💙
+10:01:39 De Instructor :: Gaby a Cinthia - Asistente Académica(mensaje directo):
+	Muchas gracias!
+10:01:52 De Instructor :: Gaby a Todos:
+	Hola, buen dia!	Como están ?
+10:01:56 De Instructor :: Gaby a Todos:
+	Arrancamos en 5 min.
+10:09:05 De Instructor :: Gaby a Todos:
+	ARRACAMOS !
+10:09:58 De Luis Davila a Todos:
+	buen dia! tranqui tranqui
+10:10:04 De Federico Nolasco a Todos:
+	Buenass
+10:10:17 De Mariano Migueles a Todos:
+	buen dia!!
+10:36:35 De Federico Nolasco a Todos:
+	por ahora si
+10:41:53 De Federico Nolasco a Todos:
+	sisi
+11:07:45 De Oderay Ferrer-1009116 a Todos:
+	Esas hay que crearlas nosotros, no?
+11:10:17 De Instructor :: Gaby a Todos:
+	URL : g4gr/EIT__GitDesarrolloColaborativo--73561 (github.com)
+11:14:26 De Oderay Ferrer-1009116 a Todos:
+	Profe me salto esto
+11:14:28 De Oderay Ferrer-1009116 a Todos:
+	╰─ git clone git@github.com:g4gr/EIT__GitDesarrolloColaborativo--73561.git
+	Clonando en 'EIT__GitDesarrolloColaborativo--73561'...
+	The authenticity of host 'github.com (20.201.28.151)' can't be established.
+	ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.
+	This key is not known by any other names
+	Are you sure you want to continue connecting (yes/no/[fingerprint])? y
+	Please type 'yes', 'no' or the fingerprint: yes
+	Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
+	git@github.com: Permission denied (publickey).
+	fatal: No se pudo leer del repositorio remoto.
+	Por favor asegúrate de que tengas los permisos de acceso correctos
+	y que el repositorio exista.
+11:15:25 De Oderay Ferrer-1009116 a Todos:
+	Ahi lo resolví bajándolo con GitHub cli
+11:24:25 De Oderay Ferrer-1009116 a Todos:
+	Hay que entonces clonar desde la terminal y después hacer for?
+11:24:28 De Oderay Ferrer-1009116 a Todos:
+	fork
+11:26:05 De Oderay Ferrer-1009116 a Todos:
+	Claro el tema es que te venia siguiendo
+11:43:45 De Mariano Migueles a Todos:
+	sisi
+11:45:31 De Oderay Ferrer-1009116 a Todos:
+	Profe cuando hago el commit que le pongo como mensaje?
+11:46:47 De Oderay Ferrer-1009116 a Todos:
+	Profe luego de hacer el git commit como realizábamos la pr?
+11:47:04 De Instructor :: Gaby a Todos:
+	git push --all
+11:52:46 De Oderay Ferrer-1009116 a Todos:
+	Profe no estaria pudiendo realizar el git push
+11:52:53 De Oderay Ferrer-1009116 a Todos:
+	Me dice que ingrese mi contraseña
+11:53:06 De Oderay Ferrer-1009116 a Todos:
+	Genere un token pero ni asi, me dice que no es posible acceder
+11:54:30 De Oderay Ferrer-1009116 a Todos:
+	╰─ git push --all
+	Username for 'https://github.com': oderayferrer
+	Password for 'https://oderayferrer@github.com':
+	remote: Permission to oderayferrer/EIT__GitDesarrolloColaborativo--73561.git denied to oderayferrer.
+	fatal: no es posible acceder a 'https://github.com/oderayferrer/EIT__GitDesarrolloColaborativo--73561.git/': The requested URL returned error: 403
+11:58:46 De Oderay Ferrer-1009116 a Todos:
+	Ahi pude profe
+11:59:03 De Oderay Ferrer-1009116 a Todos:
+	Como lo mando?
+12:00:16 De Oderay Ferrer-1009116 a Todos:
+	Porque estoy en la parte de pr y no entiendo como mandarla
+12:00:58 De Oderay Ferrer-1009116 a Todos:
+	Porque me dice que no hay nada que comparar y ya hice git pull
+12:02:31 De Mariano Migueles a Todos:
+	le falta el commit creo
+12:03:33 De Mariano Migueles a Todos:
+	okay okay
+12:05:08 De Oderay Ferrer-1009116 a Todos:
+	Barbaro profe gracias
+12:14:43 De Mariano Migueles a Todos:
+	perfecto entonces, nos vemos
+12:14:53 De Hernán Fernández Brando-990972 a Todos:
+	chau!
