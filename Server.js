@@ -9,3 +9,5 @@ const escucha = () => ({
 >>>>>>> Stashed changes
   console.log(`Hola ${USER}! Escuchando en el puerto ${PORT}`);
 })
+
+console.log('Hola desde GitHub');
